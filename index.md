@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
----
+title: Welcome to my blog, let's put effort.---
 
